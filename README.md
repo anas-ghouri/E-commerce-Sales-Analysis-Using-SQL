@@ -1,16 +1,13 @@
-# 🛒 E-commerce Sales Analysis - SQL Project
+# Product & Customer Analysis - SQL Project
 
-## 🎯 Project Objective:
+# Project Scope:
+Derive insights to improve sales, customer engagement, and product strategy
 
-Understand overall sales performance
+## 🎯 Project Objectives:
 
-Track repeat customers
-
-Identify top-selling products
-
-Spot regional trends
-
-Recommend data-backed actions
+Product-Level Insights
+Customer Segmentation
+Advanced KPIs (Customer Retention, Lifetime Value)
 
 
 ## 🛠️ Tools & Skills Used
