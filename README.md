@@ -6,7 +6,9 @@ Derive insights to improve sales, customer engagement, and product strategy
 ## 🎯 Project Objectives:
 
 Product-Level Insights
+
 Customer Segmentation
+
 Advanced KPIs (Customer Retention, Lifetime Value)
 
 
